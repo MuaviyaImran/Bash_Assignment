@@ -14,8 +14,8 @@ usage() {
 # Default values
 path=""
 tmp=false
-filename="wallpaper"
-resolution="1920/1080"
+filename=$(date +%Y-%m-%d_%H-%M-%S)
+resolution="4096/2160"
 
 while getopts ":p:to:r:h" opt; do
     case $opt in

@@ -1,0 +1,11 @@
+--2023-09-27 14:45:42--  https://picsum.photos/4096/2160
+Resolving picsum.photos (picsum.photos)... 172.67.74.163, 104.26.4.30, 104.26.5.30, ...
+Connecting to picsum.photos (picsum.photos)|172.67.74.163|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://fastly.picsum.photos/id/300/4096/2160.jpg?hmac=06xjfVKjH8Bt19alDVXoMUaUEOEbamPzLGPfZSSRe7U [following]
+--2023-09-27 14:45:43--  https://fastly.picsum.photos/id/300/4096/2160.jpg?hmac=06xjfVKjH8Bt19alDVXoMUaUEOEbamPzLGPfZSSRe7U
+Resolving fastly.picsum.photos (fastly.picsum.photos)... 151.101.1.91, 151.101.65.91, 151.101.129.91, ...
+Connecting to fastly.picsum.photos (fastly.picsum.photos)|151.101.1.91|:443... connected.
+HTTP request sent, awaiting response... 503 Service Unavailable
+2023-09-27 14:47:14 ERROR 503: Service Unavailable.
+
